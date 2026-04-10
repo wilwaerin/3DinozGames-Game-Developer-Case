@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85abd4f21d92e7a49b6d0c099cc6add6, type: 3}
+  m_Name: Level_02
+  m_EditorClassIdentifier: 
+  levelTime: 10
+  chains:
+  - ringColors: 000000000000000000000000
+  - ringColors: 01000000010000000100000003000000
+  - ringColors: 02000000020000000200000003000000
+  stickColumns:
+  - stickColors: 010000000000000000000000
+  - stickColors: 0000000002000000
+  - stickColors: 030000000300000004000000
